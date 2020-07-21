@@ -1,2 +1,1 @@
-# Tindog
-A simple web design on tindog
+TinDog Starting Files
